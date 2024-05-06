@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Applicati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Persistence", "Persistence\CleanArchitecture.Persistence.csproj", "{8A1E93AD-4FEF-407D-B040-8B20DE7D3AA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.API", "CleanArchitecture.API\CleanArchitecture.API.csproj", "{3F564CE1-E137-4F49-9A8C-BB1D05413685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.API", "CleanArchitecture.API\CleanArchitecture.API.csproj", "{3F564CE1-E137-4F49-9A8C-BB1D05413685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Tests", "CleanArchitecture.Tests\CleanArchitecture.Tests.csproj", "{7394BCF9-AC22-4392-A456-0EBA20A1A827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Tests", "CleanArchitecture.Tests\CleanArchitecture.Tests.csproj", "{7394BCF9-AC22-4392-A456-0EBA20A1A827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

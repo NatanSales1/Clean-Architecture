@@ -13,5 +13,6 @@ namespace CleanArchitecture.Domain.Interfaces
         public DateTimeOffset DateCreated { get; set; }
         public DateTimeOffset? DateUpdated { get; set;}
         public DateTimeOffset? DataDeleted { get; set; }
+        public DateTimeOffset DateDeleted { get; set; }
     }
 }
