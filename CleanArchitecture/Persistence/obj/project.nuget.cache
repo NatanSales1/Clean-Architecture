@@ -1,9 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ssXNNpRnzuIYwMsNRV0K2v+jD7/gk8EtcUPLEiht+J+9BBp7zx6LVC4II5Kei99NaatHybjz1LHLsICuZeQ2hA==",
+  "dgSpecHash": "9+rrLVKE4Y3ZOqqc1XnwVPpK5h+5CodDYzvgM15wAc/lpmFJFWzrbW8Br8gCwBk8dl8sdy9J+0uVVRNTD6ivfA==",
   "success": true,
   "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documentos\\GitHub\\Clean-Architecture\\CleanArchitecture\\Persistence\\CleanArchitecture.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
