@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\Documentos\\GitHub\\Clean-Architecture\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C72DB416-CB6E-4727-B74D-5C860929F850}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\victo\\onedrive\\documentos\\github\\clean-architecture\\cleanarchitecture\\cleanarchitecture.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DB416-CB6E-4727-B74D-5C860929F850}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{347D8B94-1585-41F2-A859-B83F00DDD7F7}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\victo\\onedrive\\documentos\\github\\clean-architecture\\cleanarchitecture\\cleanarchitecture.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347D8B94-1585-41F2-A859-B83F00DDD7F7}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
               "ToolTip": "C:\\Users\\victo\\OneDrive\\Documentos\\GitHub\\Clean-Architecture\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
               "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T00:20:22.094Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using CleanArchitecture.Domain.Entities;
 using CleanArchitecture.Domain.Interfaces;
 using MediatR;
 
