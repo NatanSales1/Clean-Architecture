@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\Documentos\\GitHub\\Clean-Architecture\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{347D8B94-1585-41F2-A859-B83F00DDD7F7}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\victo\\onedrive\\documentos\\github\\clean-architecture\\cleanarchitecture\\cleanarchitecture.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{347D8B94-1585-41F2-A859-B83F00DDD7F7}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F04A761-A295-412A-B673-45976FCB35B1}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|c:\\users\\victo\\onedrive\\documentos\\github\\clean-architecture\\cleanarchitecture\\cleanarchitecture.webapi\\cleanarchitecture.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F04A761-A295-412A-B673-45976FCB35B1}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\cleanarchitecture.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Documentos\\GitHub\\Clean-Architecture\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Documentos\\GitHub\\Clean-Architecture\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:20:22.094Z",
+              "Title": "CleanArchitecture.WebAPI",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Documentos\\GitHub\\Clean-Architecture\\CleanArchitecture\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\Documentos\\GitHub\\Clean-Architecture\\CleanArchitecture\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
+              "RelativeToolTip": "CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T15:22:11.014Z",
               "EditorCaption": ""
             }
           ]
